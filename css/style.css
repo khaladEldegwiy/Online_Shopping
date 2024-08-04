@@ -530,12 +530,14 @@ header {
   }
 
   .Logo {
-    font-size: 1.3rem;
-    font-weight: 400;
+    font-size: 1.8rem;
+    font-weight: 500;
   }
 
   .intro_text h1 {
-    font-size: 65px;
+    font-size: 70px;
+    letter-spacing: 3px;
+	  
   }
   .intro_text p {
     font-size: 3rem;
