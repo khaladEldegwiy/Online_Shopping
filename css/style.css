@@ -256,10 +256,8 @@ header {
 .intro_text h1 {
   font-size: 100px;
   color: coral;
-	/* background-color: #aaa3a9;
-	padding:10px; */
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
-  font-family: "Scheherazade", serif;
+/*   font-family: "Scheherazade", serif; */
   text-align: center;
   letter-spacing: -3px;
   margin-bottom: 1.5rem;
@@ -530,14 +528,13 @@ header {
   }
 
   .Logo {
-    font-size: 1.8rem;
+    font-size: 2rem;
     font-weight: 500;
   }
 
   .intro_text h1 {
-    font-size: 70px;
-    letter-spacing: 3px;
-	  
+    font-size: 55px;
+    font-family: "Poppins", sans-serif;
   }
   .intro_text p {
     font-size: 3rem;
