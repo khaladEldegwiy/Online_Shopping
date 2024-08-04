@@ -514,7 +514,7 @@ header {
 }
 
 
-/* Screen 380 */
+/* Screen 767 */
 
 @media (max-width: 767px) {
   .title_section {
@@ -535,7 +535,7 @@ header {
   }
 
   .intro_text h1 {
-    font-size: 55px;
+    font-size: 65px;
   }
   .intro_text p {
     font-size: 3rem;
